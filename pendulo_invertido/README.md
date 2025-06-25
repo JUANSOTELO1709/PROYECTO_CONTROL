@@ -39,7 +39,8 @@ Este proyecto implementa un **controlador LQR** (Linear Quadratic Regulator) par
 
 ---
 
-## 🖥️ Comandos Serial
+
+## 🖥️ Comando Serial
 
 Puedes enviar los siguientes comandos desde el **monitor serial** a 115200 baudios para ajustar parámetros en tiempo real:
 
